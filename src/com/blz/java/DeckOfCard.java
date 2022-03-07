@@ -18,6 +18,10 @@ public class DeckOfCard {
     
     	    public static void main(String[] args) {
     	System.out.println("Welcome to Deck Of Card Java Project");
+    	}
+    	
+    public void displayCards(String[] deck) {
+    		int deckindex = 0;
     }
 }
 
